@@ -1,0 +1,327 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Aprilian FUll Album",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Aprilian FUll Album",
+      "title": "LELAH BERJUANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Aprilian FUll Album",
+      "title": "SEMOGA TAKDIR KITA ADA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Aprilian FUll Album",
+      "title": "TERHALANG RESTU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Aprilian FUll Album",
+      "title": "SIA SIA MERINDU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Aprilian FUll Album",
+      "title": "Cinta Untukmu Sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Aprilian FUll Album",
+      "title": "Bahagiamu Lukaku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Aprilian FUll Album",
+      "title": "Setia Untuk Selamanya",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Aprilian FUll Album",
+      "title": "Impian yang Di Khianati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Aprilian FUll Album",
+      "title": "Kekasih Yang Sempurna",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Aprilian FUll Album",
+      "title": "Cemburumu Melukaiku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Aprilian FUll Album",
+      "title": "Insan Yang Tersakiti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Aprilian FUll Album",
+      "title": "Dirimu Bukan Dirinya",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Aprilian FUll Album",
+      "title": "Ku Butuh Kau Menjauh",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Aprilian FUll Album",
+      "title": "Cinta Tak Harus Memiliki",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Aprilian FUll Album",
+      "title": "Anugerah Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Aprilian FUll Album",
+      "title": "Aku Bintang Kau Rembulan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Aprilian FUll Album",
+      "title": "Jangan Pergi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Aprilian FUll Album",
+      "title": "Bahtera Impian",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Aprilian FUll Album",
+      "title": "Satu Rasa Satu Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Aprilian FUll Album",
+      "title": "BUKAN SUMBARANG SAYANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Aprilian FUll Album",
+      "title": "MANUNGGU JANJI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Aprilian FUll Album",
+      "title": "Selendang Biru",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Aprilian FUll Album",
+      "title": "Kusangka Cuma Teman Biasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Aprilian FUll Album",
+      "title": "Puja Ku Panggil Sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Aprilian FUll Album",
+      "title": "Setiaku Tiada Arti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Aprilian FUll Album",
+      "title": "Izinkan Hadirku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Aprilian FUll Album",
+      "title": "Cinta Terbelenggu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Aprilian FUll Album",
+      "title": "Mawar Terindah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Aprilian FUll Album",
+      "title": "SEBARIS KATA INDAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Aprilian FUll Album",
+      "title": "Hatiku Merayu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Aprilian FUll Album",
+      "title": "Nyawaku Adalah Cintamu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 32,
+      "name_category": "Aprilian FUll Album",
+      "title": "Setia Menunggu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Aprilian FUll Album",
+      "title": "Harok Kasiah Ka Suruik",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 34,
+      "name_category": "Aprilian FUll Album",
+      "title": "Cinta Insan Tak Punya",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 35,
+      "name_category": "Aprilian FUll Album",
+      "title": "Jantuang dibari Hati disarahkan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "Aprilian FUll Album",
+      "title": "Rinduku Rindumu Satu Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Aprilian FUll Album Terlengkap Dan Apli banyak Dicari</p>"
+	}  
+  ]
+}
