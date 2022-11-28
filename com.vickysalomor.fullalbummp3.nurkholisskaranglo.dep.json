@@ -1,0 +1,311 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Vicky Salamor Full Album",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "CINTA SENG PAKAI SPASI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "STOP",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "JANG GANGGU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Cinta Beda Agama",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Milik Orang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Monalisa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Buaya Tipu Buaya",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Cinta Atau Kasihan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Mantan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Kepastian",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Waktu Dan Rasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Beta Masih Butuh",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Sembuhkan Bangsa IniO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "ABADI SELAMANYA",
+      "title": "Labil",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Sulit",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Untuk Yang Pernah Pergi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Telah Lahir",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Pembimbingku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Korban",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Rayuan Dalam Khayalan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Baper",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Kangen Bongso",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Galau Lagi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Tania",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Bukti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Jangan Rubah Takdirku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Pergi Dan Jangan Kembali",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "ORANG KETIGA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "CINTA SE BETA TERLUKA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Menanti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "TIPU REMBULAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 32,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Tuhan Beta Mau Dia",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Stalking Instagram",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 34,
+      "name_category": "Vicky Salamor Full Album",
+      "title": "Harga Diri",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Vicky Salamor Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
