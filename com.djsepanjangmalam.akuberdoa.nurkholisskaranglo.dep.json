@@ -1,0 +1,255 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ DENGARKANLAH DI SEPANJANG MALAM AKU BERDOA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ SHAUN THE SHEEP",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ PAK CEPAK CEPAK JEDER",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ BASS GLERR MINEFIELD",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ Bilang Pa Mama Mantu Kita So Siap",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ CAMPURAN JEDAG JEDUG FULL BASS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ ABCDEFU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ TAK BOSAN BOSAN AKU MEMANDANGMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ Bukan Sekali Kamu Buat Begini",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ PAP PEP PAP SURIYA FADELE",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ ITS ONLY ME",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ TEHIBA TEHI SLOW",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "ABADI SELAMANYA",
+      "title": "DJ GANI GANI x DJ SALTING x DJ HUJAN BADAI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ SIA SIA KU BERJUANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ SLEBEW",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ INILAH AKU RAJA MEKSIKO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ MAMA MUDA GOYANG PAPA MUDA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ Bintang Di Surga",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ Aca Aca Nehi Nehi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ Tambah Dewasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ CINTA TEGARKAN HATIKU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ SETIAP YANG KU LAKUKAN UNTUK DIRIMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ DALAMO DALAMO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ JEDAG JEDUG DANCE MONTAGE BASSS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ BILA NANTI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Dj Sepanjang malam Aku berdoa",
+      "title": "DJ AKU KECAPEAN SEHARIAN CARI UANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dj Sepanjang malam Aku berdoa Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
