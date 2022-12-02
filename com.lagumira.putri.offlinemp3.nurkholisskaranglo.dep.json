@@ -28,8 +28,12 @@
     }
 {
   "Categories": [
-  "Categories": [
     {
+      "id": 1,
+      "name_category": "Revina Alvira Full Album",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
       "id": 1,
       "name_category": "Mira Putri Full Album",
       "image": "file:///android_asset/image/icon.png"
