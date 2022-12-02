@@ -1,0 +1,447 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Revina Alvira Full Album",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Revina Alvira Full Album",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SEGUDANG RINDU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SECANGKIR KOPI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Revina Alvira Full Album",
+      "title": "MENGEJAR BADAI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Revina Alvira Full Album",
+      "title": "CINCIN KEPALSUAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Revina Alvira Full Album",
+      "title": "GALA GALA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Revina Alvira Full Album",
+      "title": "TABIR KEPALSUAN,
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Revina Alvira Full Album",
+      "title": "PEMBARINGAN TERAKHIR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Revina Alvira Full Album",
+      "title": "GORESAN LUKA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Revina Alvira Full Album",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Revina Alvira Full Album",
+      "title": "KERANDA CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Revina Alvira Full Album",
+      "title": "BUKAN TAK MAMPU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Revina Alvira Full Album",
+      "title": "CITRA CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "ABADI SELAMANYA",
+      "title": "EGOIS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Revina Alvira Full Album",
+      "title": "HARUSKAH BERAKHIR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Revina Alvira Full Album",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Revina Alvira Full Album",
+      "title": "PATAMORGANA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Revina Alvira Full Album",
+      "title": "ANAK YANG MALANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Revina Alvira Full Album",
+      "title": "KURANG APA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Revina Alvira Full Album",
+      "title": "GHIBAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Revina Alvira Full Album",
+      "title": "BAGAI RANTING YANG KERING",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Revina Alvira Full Album",
+      "title": "JALAN DATAR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Revina Alvira Full Album",
+      "title": "DUSTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Revina Alvira Full Album",
+      "title": "BADAI BIRU.",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SURATAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Revina Alvira Full Album",
+      "title": "TERALI BESI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Revina Alvira Full Album",
+      "title": "TERMISKIN DI DUNIA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Revina Alvira Full Album",
+      "title": "TIRANI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Revina Alvira Full Album",
+      "title": "MOJANG PRIANGAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Revina Alvira Full Album",
+      "title": "KERINDUAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Revina Alvira Full Album",
+      "title": "DASI DAN GINC",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 32,
+      "name_category": "Revina Alvira Full Album",
+      "title": "MELODI CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Revina Alvira Full Album",
+      "title": "JANGAN TINGGALKAN AKU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 34,
+      "name_category": "Revina Alvira Full Album",
+      "title": "ARJUN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 35,
+      "name_category": "Revina Alvira Full Album",
+      "title": "PERTEMUAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "Revina Alvira Full Album",
+      "title": "ADUHAI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "Revina Alvira Full Album",
+      "title": "R I N D U",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SECANGKIR KOPI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 39,
+      "name_category": "Revina Alvira Full Album",
+      "title": "BUMIPUN TURUT MENANGIS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 40,
+      "name_category": "Revina Alvira Full Album",
+      "title": "PERTEMUAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 41,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SRI PANGGUNG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 42,
+      "name_category": "Revina Alvira Full Album",
+      "title": "KASIH SAYANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 43,
+      "name_category": "Revina Alvira Full Album",
+      "title": "KEMBALIKANLAH DIA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 44,
+      "name_category": "Revina Alvira Full Album",
+      "title": "CINTAKU PASTI KEMBALI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 45,
+      "name_category": "Revina Alvira Full Album",
+      "title": "DINGIN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 46,
+      "name_category": "Revina Alvira Full Album",
+      "title": "GELANDANGAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 47,
+      "name_category": "Revina Alvira Full Album",
+      "title": "DOSA KAU ANGGAP MADU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 48,
+      "name_category": "Revina Alvira Full Album",
+      "title": "AKU DILAHIRKAN UNTUK SIAPA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 49,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SULAYA JANJI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 50,
+      "name_category": "Revina Alvira Full Album",
+      "title": "SETETES AIR HINA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 51,
+      "name_category": "Revina Alvira Full Album",
+      "title": "TANDA CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Revina Alvira Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
