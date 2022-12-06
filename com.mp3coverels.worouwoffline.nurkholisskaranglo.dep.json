@@ -1,0 +1,247 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Elshinta Warouw Full Album",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Adakah Kau Setia",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Aduhai Seribu kali sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Assalamualaikum Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Bila Cinta Didusta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Buih jadi permadani",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Dipersimpangan dilema",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Batas Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Dear Diary",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "DIAM DIAM CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Masih Kutunggu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Memendam Rasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Sang Kelana Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Sujud",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Gerimis Mengundang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Hakikat Sebuah Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Hanya Satu Persinggahan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "JAGA CINTAKU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Mahligai Seribu Mimpi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Mencari Alasan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Mimpi Yang Hilang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Purnama Merindu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Seberkas sinar",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Sembilu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Tiada yang lain",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Elshinta Warouw Full Album",
+      "title": "Wajah Kekasih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Elshinta Warouw Full Album Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
