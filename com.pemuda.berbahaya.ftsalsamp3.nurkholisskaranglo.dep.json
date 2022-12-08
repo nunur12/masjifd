@@ -1,0 +1,463 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "PECAH SERIB",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "HATI HATI DI JALAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "CINTA SAMPAI MAT",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "AW AW AW",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "MAHAL",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "JANGAN MAU MAU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "ABRACADABRA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "KAMU NGGA SENDIRIAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "LAGI SYANTIK",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BASA BASI BUSUK",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "GATAL",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "ISABELLA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "SAMPAI TUTUP USIA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BILA DIRI DISAYANGI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "CINTA TERLARANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "LELAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "MARI BERCINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BIAR GENDUT TETAP KUCINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "LAGI LAGI KU GAK BISA TIDUR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "MENGHAPUS JEJAKMU.",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "PUTUS ATAU TERUS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BIARLAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "RINDU SERINDU RINDUNYA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "AKU JATUH CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "MENCARI ALASAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "JAWARA CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "KAMSEUPAY",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "DUKA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "AKU DAN EGOMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 32,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "JATUH BANGUN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "YANK",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 34,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "AKU BUKAN JODOHNYA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 35,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "ACA ACA NEHI NEHI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BAIK BAIK SAYANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "KEHADIRANMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "TERLATIH PATAH HATI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 39,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "KUINGIN KAU MATI SAJA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 40,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "SAAT TERAKHIR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 41,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "PERAWAN ATAU JANDA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 42,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "ULAR BERBISA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 43,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "ADA AKU DISINI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 44,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "KU TAK AKAN BERSUARA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 45,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 46,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "SKJ",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 47,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "PUSING",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 48,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "LELAKI BUAYA DARAT",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 49,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "HEY LADIES",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 50,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "WAJAH WAJAH KEKASIH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 51,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "BILA CINTA DI DUSTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 52,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "SAKIT GIGI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 53,
+      "name_category": "Salsha Bintan X 3pemuda Berbahaya",
+      "title": "PERGI PAGI PULANG PAGID",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Salsha Bintan X 3pemuda Berbahaya Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
