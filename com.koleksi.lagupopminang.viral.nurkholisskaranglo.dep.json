@@ -1,0 +1,383 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "LUKO BADARAH ULANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Panek Diawak Kayo Diurang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "MALANG DENAI BACINTO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "LAH MANYURUAK TAMPAK JUO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "TAK SEDALAM INI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "HILANG KASIAH NAN BAJAGO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "BUHUA SENTAK RANG ELO KAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "SAMPAI MATI TETAP MILIKMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "SANGKETO CINTO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "KASIAH HABIH DEK ULAH DUTO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "JANJI NAN MAMISAHKAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "LUKO BADARAH ULANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "INDAK JODOH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "URANG LAIN KAGANTI CINTO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "DEK BANSAIK SANAK MANJAUAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "HABIH SAMBA TAK LAMA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "BAMAIN JO BAYANG KASIAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Kasiah Sabateh Kawan.",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Kasiah Sayang Mandeh",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Korban Perasaan.",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Manunggu Janji",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "SABA DALAM PANANTIAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Usah Dikana Kana",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Lah Pai Urang Nan Den Sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Harok Dirantau Urang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Malakik Hati Tabiaso.",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "CINTO PANABUIH BUDI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Rayola Baharok Cahayo Bintang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Baharok Bingkalai Lapiak",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Janji Cincin Suaso",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "JANJI BABUAH LUKO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 32,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "RAYO TALAMPAU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "PICAYOLAH SAYANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 34,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Balaku Bana Bakato Baiak",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 35,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Harato Kajadi Baban",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Padiah Sakik Bacinto",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "UJIAN RUMAH TANGGO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Takuik Bimbiang Kabaganti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 39,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "KANDAK DAPEK JASO TALUPO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 40,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Sarumah Bajauah Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 41,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "RATOK PASAMAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 42,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "DIPAMAINKAN CINTO",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 43,
+      "name_category": "KUMPULAN LAGU MINANG",
+      "title": "Rayola Tadayo Gurauan Sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU MINANG Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
