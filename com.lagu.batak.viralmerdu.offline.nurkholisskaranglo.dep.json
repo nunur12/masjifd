@@ -1,0 +1,447 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Sapala Naung Hupillit",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Sala Lakka",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Cinta Cadangan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Ditutup Begu Pinggol Mi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Unang Sai Curigai Au",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Cinta Unang Curiga",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Marpikkir Ma Jo Ho",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "SAI HORAS MA HO TU SIBORU LOMOMI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Au Do Gabe Korban",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Sirang So Sirang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "GANJANG MA UMURMI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Berjanjilah Untukku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Boan Ma Holongki",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Saut Ma Sakkapta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Holan Au do Na Mengalah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Masihol",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Selamat Tinggal Masa Lalu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Surle Di Surle",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Mulak Mulak Manogot",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Penipu Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Haholongi Ma Au",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Holan Sabornginon",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Pulut Roham",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Dang Na Ujui Be Ho",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Holong Na Mamillit",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Kau Panggil Aku Paribanmu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Sae Ma I",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Sandiwara Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Tangiangkon Au",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Boan Ma Nasa Lomom",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Borukku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 32,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Jalo Ma Sapata",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Martopak Sada Tangan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 34,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Sederhana Do Kebahagiaanku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 35,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Andai Ku Bisa Memilih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Mardua Holong",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Jangan Salahkan Diriku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Upani Patik Palimahon",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 39,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Adong Na Tartutupi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 40,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Inang Nauli Lagu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 41,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Secara Dewasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 42,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Bojak Bortung",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 43,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Debata Na Tarida",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 44,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Memory Motor Intra",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 45,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Nantulang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 46,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Saohagolo Sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 47,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Scatter Marthabe Because Of Scatter",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 48,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Deng Deng Kurdeng Alani Corona",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 49,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Jangan Malu Jadi Orang Batak",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 50,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Maneket Manuk",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 51,
+      "name_category": "KUMPULAN LAGU BATAK",
+      "title": "Success Tommorow Begins Today",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BATAK Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
