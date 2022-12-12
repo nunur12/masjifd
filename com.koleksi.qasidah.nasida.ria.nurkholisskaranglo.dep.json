@@ -1,0 +1,343 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Lagu Ultraman Offline",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Ibu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Dimana mana Dosa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Muhammad Mataharinya Dunia",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "PADANG ARAFAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Usaha Dan Doa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Pengantin Baru",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Anakku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Dunia Dalam Berita",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Keadilan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Jilbab Putih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Tahun 2000",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Kota Santri",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Bom Nuklir",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Perdamaian",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "JASA IBU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Rahasia Cantik Menawan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "SURGA DIBAWAH TELAPAK KAKI IBU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "KUNCI PINTU SURGA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Kaya Miskin Tiada Berbeda",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Merdeka Membangun",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Jagalah Kehormatanmu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "MUNAFIK",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Ya Nabi Salaam",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Ikhlas",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Wajah Ayu Untuk Siapa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Nasehat Pergaulan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Cinta Tertinggi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "MARI BERSATU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "LAMA LAMA SADAR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Ingat Hari Depan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Insan Iman",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 32,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Jangan lakukan Dosa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Resep Hidup Tentram",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+    },
+	{
+      "id": 34,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Sholat Membimbing Umat",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 35,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Dunia Semakin Panas",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Masjid Tua",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Neraca Keadilan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "Lagu Ultraman Offline",
+      "title": "Bertaubatlah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Ultraman Offline Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
