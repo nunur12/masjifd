@@ -1,0 +1,303 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Ill Play The Blues For You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Come Fly With Me",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Evening",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Slow Dance",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "The Beast",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Loneliest Road That I Know",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Elevator To Heavenw",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Trouble",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Ill Take Care Of You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Picasso Blue",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Set Me Free",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Lonely Bed",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Dont Let Me Down",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Its Been So Long",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Bad Luck",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "The Day the Blues Came to Call",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Babys Got Another Lover",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Sleepless",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Slightly Hung Over",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Wait For The Night To Turn Blue",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Softly Let Me Kiss Your",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Bringing Home The Blues",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "If I Ever Loved Another Woman",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "The Black Water Rose",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "I Remember You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "All Over Again",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Cant Use Your Love",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Cheatin Hand",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Devil In You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Nothin Good To Say",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "My Take On The Blues",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},  
+	{
+      "id": 32,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "The Shadow",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "KUMPULAN LAGU BLUES & JAZZ",
+      "title": "Hard To Leave You Alone",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">KUMPULAN LAGU BLUES & JAZZ Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
